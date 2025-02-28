@@ -1,0 +1,12 @@
+{
+    "name": "SOCTOCNFT",
+    "description": "+15 Social Credit",
+    "symbol": "STN",
+    "image": "https://imgur.com/a/KVt3q4u.jpeg",
+    "attributes": [
+        {
+            "trait_type": "SocialCredit",
+            "value": "SocialValue"
+        }
+    ]
+}
